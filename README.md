@@ -4,7 +4,7 @@
 <image
   src="image-2.png"
   alt="Descripción de la imagen"
-  ></br>Imagen generada desde artguru.ai
+  ></br>Imágen generada desde artguru.ai
   </p>
 
 ## El proceso de ser elejido para la entrevista:
@@ -13,7 +13,7 @@ Este artículo busca proporcionar orientación a individuos en búsqueda de opor
 <p align="center"><image
   src="image-3.png"
   alt="Descripción de la imagen"
-  ></br>Imagen generada desde artguru.ai
+  ></br>Imágen generada desde artguru.ai
   </p>
 En el contexto de una entrevista, es esencial demostrar tanto las hard skills como las soft skills, ya que las empresas buscan al mejor candidato que no solo sea capaz de desempeñar las tareas requeridas (hard skills), sino también que muestre disposición y capacidad para adaptarse al entorno de la organización (soft skills). Entender la relevancia de estas dos categorías de habilidades puede brindar una clara dirección sobre cómo prepararse y enfocarse en cada etapa del proceso de selección. 
 
@@ -23,7 +23,7 @@ Durante el proceso de la entrevista, es habitual sentir nervios, estrés y ansie
 <p align="center"><image
   src="image.png"
   alt="Descripción de la imagen"
-  ></br>Imagen generada desde artguru.ai
+  ></br>Imágen generada desde artguru.ai
   </p>
 
 Es recomendable eliminar factores estresantes antes de la entrevista, como el uso del teléfono móvil, y llevar consigo una lista de fortalezas y debilidades para repasarla antes de ingresar al entorno de la entrevista. Este enfoque ayuda a afrontar la situación de manera calmada y concentrada.
@@ -34,7 +34,7 @@ En el ámbito profesional, es fundamental recordar que las habilidades de comuni
 <p align="center"><image
   src="image-1.png"
   alt="Descripción de la imagen"
-  ></br>Imagen generada desde artguru.ai
+  ></br>Imágen generada desde artguru.ai
   </p>
 
 Al momento de responder, es crucial ajustar el volumen de nuestra voz al del entrevistador, evitando hablar demasiado alto o demasiado bajo, y prestando atención al tono de voz que utilizamos. Otro aspecto importante a considerar es la fluidez verbal: debemos ser conscientes de la importancia de expresarnos de manera clara y fluida, evitando el uso excesivo de muletillas y ofreciendo respuestas completas a preguntas de tipo sí o no, acompañadas de una breve explicación. La velocidad a la que hablamos también juega un papel clave: un ritmo de habla moderado transmite confianza y seguridad, mientras que hablar demasiado rápido puede denotar nerviosismo, y hacerlo muy lentamente puede resultar aburrido para el entrevistador, llevándolo a desconectarse.
@@ -47,7 +47,7 @@ Las habilidades de comunicación verbal deben verse complementadas por el respal
 <p align="center"><image
   src="image-4.png"
   alt="Descripción de la imagen"
-  ></br>Imagen generada desde artguru.ai
+  ></br>Imágen generada desde artguru.ai
   </p>
 
 En el contexto de una entrevista, se ofrecen los siguientes consejos sobre el lenguaje corporal:
@@ -74,7 +74,7 @@ El pensamiento crítico es una herramienta imprescindible que nos permite aborda
 <p align="center"><image
   src="image-5.png"
   alt="Descripción de la imagen"
-  ></br>Imagen generada desde artguru.ai
+  ></br>Imágen generada desde artguru.ai
   </p>
 Es crucial comprender la importancia de considerar puntos de vista contrarios, ya que un buen pensador crítico está siempre abierto al debate y al cuestionamiento. Además, es necesario adoptar actitudes como el respeto hacia las opiniones de los demás, la humildad para seguir aprendiendo constantemente y mantener el enfoque en obtener resultados positivos.
 
