@@ -1,10 +1,11 @@
 # Desarrollando tu soft skills para destacarte en una entrevista laboral
 
-
-<center><image
+<p align="center">
+<image
   src="image-2.png"
   alt="Descripción de la imagen"
-  ><p>Imagen generada desde artguru.ai</p></center>
+  ><p>Imagen generada desde artguru.ai</p>
+  </p>
 
 ## El proceso de ser elejido para la entrevista:
 
